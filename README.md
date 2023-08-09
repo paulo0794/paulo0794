@@ -1,5 +1,5 @@
 ## Hi there 👋 
-### Me chamo Paulo Henrique, desenvolvedor full stack, atualmente estudando salesforce. 
+### Me chamo Paulo Henrique, desenvolvedor web full stack, atualmente estudando salesforce. 
 
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paulo0794" alt="carlosfloresta" /></a> </p>
