@@ -24,8 +24,8 @@
 
 <div align="left">
   <a href="https://github.com/paulo0794">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulo0794&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo0794&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulo0794&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo0794&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
   
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=paulo0794&"/></p>
